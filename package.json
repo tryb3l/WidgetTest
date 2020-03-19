@@ -1,0 +1,22 @@
+{
+  "name": "widgettest",
+  "version": "1.0.0",
+  "description": "Testowanie wysylki wiadomosci z widget'a tidio.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tryb3l/WidgetTest.git"
+  },
+  "author": "tryb3l",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tryb3l/WidgetTest/issues"
+  },
+  "homepage": "https://github.com/tryb3l/WidgetTest#readme",
+  "devDependencies": {
+    "cypress": "^4.2.0"
+  }
+}
