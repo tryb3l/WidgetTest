@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/tryb3l/WidgetTest#readme",
   "devDependencies": {
-    "cypress": "^4.3.0"
+    "cypress": "^4.4.1"
   }
 }
